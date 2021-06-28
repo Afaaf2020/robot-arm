@@ -1,2 +1,2 @@
-# robot-arm
-Design control interface with arm , Creating a database controlling the arm ,and connection them
+واجهة تحكم في ذراع الروبوت robot arm أنشأت الصفحة الرئيسية بكود HTML ,وقمت بتنسيقها بكود Css, واستعنت ايضاً بلغة JS,ولغة php لربط قاعدة البيانات ب صفحة الويب 
+التي أنشأناها من خلال برنامج SQL بأستخدام برنامج Xampp 
